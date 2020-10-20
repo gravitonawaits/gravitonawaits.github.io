@@ -1,0 +1,84 @@
+[
+  {
+    "FirstName": "Mark",
+    "Surname": "Watney",
+    "Age": 28,
+    "Address": {
+      "Street": "Hursley Park",
+      "City": "Winchester",
+      "Postcode": "SO21 2JN"
+    },
+    "Phone": [
+      {
+        "type": "home",
+        "number": "12035441234"
+      },
+      {
+        "type": "office",
+        "number": "11962001234"
+      }
+    ],
+    "Email": [
+      {
+        "type": "work",
+        "address": "mark.watney@xyz.com"
+      },
+      {
+        "type": "home",
+        "address": "mark.watney@abc.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Chris",
+    "Surname": "Martin",
+    "Age": 28,
+    "Address": {
+      "Street": "Lower East Side",
+      "City": "London",
+      "Postcode": "232175"
+    },
+    "Phone": [
+      {
+        "type": "home",
+        "number": "44982102212"
+      }
+    ],
+    "Email": [
+      {
+        "type": "work",
+        "address": "chris.martin@xyz.com"
+      },
+      {
+        "type": "home",
+        "address": "chris.martin@abc.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "Thomas",
+    "Surname": "Hardy",
+    "Age": 28,
+    "Address": {
+      "Street": "First Street",
+      "City": "London",
+      "Postcode": "2789793"
+    },
+    "Phone": [
+      {
+        "type": "home",
+        "number": "44341238741"
+      }
+    ],
+    "Email": [
+      {
+        "type": "work",
+        "address": "tom.hardy@xyz.com"
+      },
+      {
+        "type": "home",
+        "address": "tom.hardy@abc.com"
+      }
+    ]
+  }
+]
